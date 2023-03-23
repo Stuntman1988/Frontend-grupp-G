@@ -15,7 +15,7 @@ function myFunction(id) {
 }
 
 
-fetch('https://fakestoreapi.com/products')
+fetch('https://mocki.io/v1/a99e6cf4-1e5a-4b0e-bc57-6c651f0f09cd')
     .then(res => {
         return res.json();
     })
